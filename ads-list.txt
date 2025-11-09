@@ -1648,4 +1648,5 @@
 ||youtubei.googleapis.com^
 ||ogads-pa.clients6.google.com^
 ||bet.br^
-||.bet.br^
+||*.bet.br^
+/.*\.bet\.br$/
