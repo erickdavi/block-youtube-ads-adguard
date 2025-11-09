@@ -1647,3 +1647,4 @@
 ||yt3.ggpht.com^
 ||youtubei.googleapis.com^
 ||ogads-pa.clients6.google.com^
+||.bet.br^
