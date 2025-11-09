@@ -1638,3 +1638,12 @@
 ||r18---sn-nv47lnel.googlevideo.com^
 ||r19---sn-nv47lnel.googlevideo.com^
 ||r20---sn-nv47lnel.googlevideo.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||ade.googlesyndication.com^
+||yt3.ggpht.com^
+||youtubei.googleapis.com^
+||ogads-pa.clients6.google.com^
